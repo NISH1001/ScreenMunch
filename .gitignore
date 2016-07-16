@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignorance is bliss
+*.mp4
+*.avi
+*.swp
+
 # C extensions
 *.so
 
